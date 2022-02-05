@@ -1,6 +1,7 @@
 # My files
 JFrog_Production_Engineering_Academy_Home_Assignment.pdf
 mytokens/
+.username
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
