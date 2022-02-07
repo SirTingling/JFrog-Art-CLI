@@ -17,7 +17,7 @@ The most prominent sources I used:
 2. [How to Generate an access Token](https://www.youtube.com/watch?v=OQ4_ZGCnqIo)
 3. [python requests docs](https://docs.python-requests.org/en/master/user/quickstart/)
 4. [stackoverflow](https://stackoverflow.com/), and specificly these threads:
-4. * [1](https://stackoverflow.com/questions/15785719/how-to-print-a-dictionary-line-by-line-in-python), [2](https://stackoverflow.com/questions/13782198/how-to-do-a-put-request-with-curl), [3](https://stackoverflow.com/questions/2967194/open-in-python-does-not-create-a-file-if-it-doesnt-exist).
+* * [1](https://stackoverflow.com/questions/15785719/how-to-print-a-dictionary-line-by-line-in-python), [2](https://stackoverflow.com/questions/13782198/how-to-do-a-put-request-with-curl), [3](https://stackoverflow.com/questions/2967194/open-in-python-does-not-create-a-file-if-it-doesnt-exist).
 5. [DelfStack](https://www.delftstack.com/howto/python/python-clear-console/)
 
 I also used [this tool](https://curlconverter.com/#) quite a lot.
