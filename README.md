@@ -39,13 +39,13 @@ Just type 'help' in console.
 All commands are typed as their entire tree, except for commands in the 'misc' branch, which are not prefixed and only use the final command.
 
 So for e.g, if you want to see your system version, the command you type is
-> get system version
+> `get system version`
 
 Or if you want to delete a user:
-> DELETE user
+> `DELETE user`
 
 But if you want to clear the console you'd only have to type:
-> cls
+> `cls`
 
 Some commands ask you for further input, and commands that require an administrator access always ask for password confirmation.
 Note that all misc commands are unprefixed
