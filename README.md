@@ -24,7 +24,7 @@ I also used [this tool](https://curlconverter.com/#) quite a lot.
 
 ### About some descisions I made during this project:
 
-* **Writing dirty** - The time constraint was too tight for me to both learn how to do it all, *and* to do it pretty. while dirty is bloated, it often is the *fastest* way to a result (and I neede *fast*).
+* **Writing dirty** - The time constraint was too tight for me to both learn how to do it all, *and* to do it pretty. while dirty is bloated, it often is the *fastest* way to a result (and I needed *fast*).
 * **Creating an entire Shell** - A simple CLI is good when you only use it a small amounts of times in succession, but if you want to manage something that requires various variables, you don'y want to type them *every single time you run a command*; From a tool that helps you, a CLI can easily become jarring, and even harder to use. An interactive shell on the other hand, is ment for repetetive use.
 * **Inserting path to access token** - It allowed me to create a bit of a safer 'cache', without the complications of encryption (which would be another thing to learn).
 * **Repetitive password prompts** - Again, a security meassure. The password prompts are only used for commands which require an admin user.
