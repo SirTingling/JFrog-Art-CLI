@@ -34,7 +34,7 @@ I also used [this tool](https://curlconverter.com/#) quite a lot.
 
 ## Console Usage:
 
-Just type 'help' in console.
+Just type `help` in console.
 
 All commands are typed as their entire tree, except for commands in the 'misc' branch, which are not prefixed and only use the final command.
 
